@@ -19,3 +19,8 @@ month        = 7,
 }
 ```
 
+One of the most important plots in this thesis is the difference in optimization paths between Simulated Annealing and Backpropagation in training a neural network to learn the same dataset and with  the exact same architecture. 
+
+![alt text](img/BPSA.png)
+
+
